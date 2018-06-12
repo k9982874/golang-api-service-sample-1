@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	controllers "github.com/k9982874/golang-api-service-sample/controllers"
+	controllers "github.com/k9982874/golang-api-service-sample-1/controllers"
 )
 
 func main() {
